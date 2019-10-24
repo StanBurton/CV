@@ -4,13 +4,13 @@
 
 - **E-mail**: [stasbarinoff@gmail.com](stasbarinoff@gmail.com)
 
-- **Telegram**: [Telegram link](https://t.me/stasbarinoff)
+- **Telegram**: [Telegram](https://t.me/stasbarinoff)
 
-- **LinkedIn profile**: [LinkedIn link](https://www.linkedin.com/in/stanislav-zhdanovich/)
+- **LinkedIn profile**: [LinkedIn](https://www.linkedin.com/in/stanislav-zhdanovich/)
 
-- **job.tut.by**: [Job.tut.by link](https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267)
+- **job.tut.by**: [Job.tut.by](https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267)
 
-- **github**: [GitHub link ](https://github.com/Stassras)
+- **github**: [GitHub](https://github.com/Stassras)
 
 - **English**: Intermediate (B1).
 
@@ -32,7 +32,7 @@
 
 ### Piskel-Clone (2019)
 
-- **Project:** [Piskel-Clone link](https://github.com/Stassras/Piskel-Clone)
+- **Project:** [Piskel-Clone](https://github.com/Stassras/Piskel-Clone)
 
 - **Position:** Developer/designer
 
@@ -42,7 +42,7 @@
 
 #### (Group work)
 
-- **Project:** [Culture-Portal link](https://github.com/Stassras/Culture-portal)
+- **Project:** [Culture-Portal](https://github.com/Stassras/Culture-portal)
 
 - **Position:** Developer/designer
 
@@ -50,7 +50,7 @@
 
 ### Youtube-Search (2019)
 
-- **Project:** [Youtube-Search Link](https://github.com/Stassras/Youtube-search)
+- **Project:** [Youtube-Search](https://github.com/Stassras/Youtube-search)
 
 - **Position:** Developer/designer
 
@@ -58,7 +58,7 @@
 
 ### FEE-Junior (2019)
 
-- **Project:** [FEE-Junior Link](https://github.com/Stassras/FEE-Junior)
+- **Project:** [FEE-Junior](https://github.com/Stassras/FEE-Junior)
 
 - **Position:** Developer/designer
 
@@ -74,21 +74,24 @@
 
 ### The Rolling Scopes School
 
-- **([The Rolling Scopes School link](https://school.rollingscopes.com/)), 02.2019 – 08.2019**
+- **([The Rolling Scopes School](https://school.rollingscopes.com/)), 02.2019 – 08.2019**
+
+- **Specialization:** Javascript/Front End Development
 
 - [Certificate link](https://app.rs.school/certificate/92eb5q8q)
 
 ### Myfreedom IT-School
 
-- **([Myfreedom IT-School link](https://myfreedom.by/)), 11.2018 – 01.2019**
+- **([Myfreedom IT-School](https://myfreedom.by/)), 11.2018 – 01.2019**
+
+- **Specialization:** Javascript/React Development
 
 - **Certificate Number:** 008F0131012019
 
 ### Belarusian State Academy Of Arts
 
-- **([Belarusian State Academy Of Arts link](http://bdam.by/)), 09.2016 – 06.2021**
+- **([Belarusian State Academy Of Arts](http://bdam.by/)), 09.2016 – 06.2021**
 
 - **Specialization:** Sound Engineering
 
-- **Specialist**
 
