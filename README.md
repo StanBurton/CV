@@ -36,7 +36,15 @@
 
 - **Position:** Developer/designer
 
-- **Environment:** HTML, CSS, JavaScript, webpack, Eslint, Sass
+- **Environment:** HTML, CSS, JavaScript, webpack, Eslint, Sass  
+
+### Todo-list (2019)
+
+- **Project:** [Todo-list](https://github.com/Stassras/Todo-list)
+
+- **Position:** Developer/designer
+
+- **Environment:** HTML, CSS, JavaScript(ES6-7), React, webpack, babel, bootstrap
 
 ### Culture-Portal (2019)
 
