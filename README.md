@@ -32,7 +32,7 @@
 
 ### Piskel-Clone (2019)
 
-- **Project:** [Piskel-Clone](https://github.com/Stassras/Piskel-Clone)
+- **Project:** [Piskel-Clone](https://stassras.github.io/Piskel-Clone/)
 
 - **Position:** Developer/designer
 
@@ -40,7 +40,7 @@
 
 ### Todo-list (2019)
 
-- **Project:** [Todo-list](https://github.com/Stassras/Todo-list)
+- **Project:** [Todo-list](https://stassras.github.io/Todo-list/)
 
 - **Position:** Developer/designer
 
@@ -50,7 +50,7 @@
 
 #### (Group work)
 
-- **Project:** [Culture-Portal](https://github.com/Stassras/Culture-portal)
+- **Project:** [Culture-Portal](https://belarusian-directors.netlify.com/ru/)
 
 - **Position:** Developer/designer
 
@@ -58,7 +58,7 @@
 
 ### Youtube-Search (2019)
 
-- **Project:** [Youtube-Search](https://github.com/Stassras/Youtube-search)
+- **Project:** [Youtube-Search](https://stassras.github.io/Youtube-search/)
 
 - **Position:** Developer/designer
 
@@ -66,7 +66,7 @@
 
 ### FEE-Junior (2019)
 
-- **Project:** [FEE-Junior](https://github.com/Stassras/FEE-Junior)
+- **Project:** [FEE-Junior](https://stassras.github.io/FEE-Junior/)
 
 - **Position:** Developer/designer
 
