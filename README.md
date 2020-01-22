@@ -22,11 +22,11 @@
 
 - **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3
 
-- **Frameworks and Libraries:** React, Redux, Bootstrap, gatsby,
+- **Frameworks and Libraries:** React, Redux, Bootstrap, gatsby, jQuery
 
-- **Tools:** GIT, VS Code, Webstorm, Webpack, Eslint, Babel, Photoshop, After Effects, SASS, Youtube API
+- **Tools:** GIT, VS Code, VS Studio, Webstorm, Webpack, Eslint, Babel, Photoshop, SASS/LESS, Youtube API
 
-- **Other skills:** Advanced Windows user. Sound engineering. Motion design. Video Production
+- **Other skills:** Advanced Windows user. Sound engineering. Motion design. Video Production, After Effects
 
 ## Projects
 
