@@ -16,7 +16,7 @@
 
 ## Summary of Qualifications
 
-> I want to start a career as a Junior Front End developer and eventually grow to senior. Confident knowledge of HTML, CSS, JavaScript, React. Graduated from Rsschool and MyFreedom Front End / React development courses. I also have a lot of experience in the design and production of audio and video. I study quickly and easily, I work well in a team.
+> Сonfident knowledge of HTML, CSS, JavaScript, React. Graduated from Rsschool and MyFreedom Front End / React development courses. I also have a lot of experience in the design and production of audio and video. I study quickly and easily, I work well in a team.
 
 ## Technical Skills
 
