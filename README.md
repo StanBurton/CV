@@ -36,7 +36,7 @@
 
 - Dec-2019 - Till now  
 
-- **Company:** [MR-Soft](https://www.mrsoft.by/)) 
+- **Company:** [MR-Soft](https://www.mrsoft.by/) 
 
 - **Position:** Web Developer  
 
