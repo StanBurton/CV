@@ -14,13 +14,13 @@
 
 - **English**: Intermediate (B1).
 
-## Summary of Qualifications
+## Summary
 
 > - 1 year of experience in commercial work in front-end development. 
-- Сonfident knowledge of HTML, CSS, JavaScript, React, Redux. 
-- Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. 
-- I study quickly and easily and work well in a team. 
-- In addition i have a lot of experience in the design and production of audio and video.
+> - Сonfident knowledge of HTML, CSS, JavaScript, React, Redux. 
+> - Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. 
+> - I study quickly and easily and work well in a team. 
+> - In addition i have a lot of experience in the design and production of audio and video.
 
 ## Technical Skills
 
@@ -36,7 +36,7 @@
 
 - Dec-2019 - Till now  
 
-- **Company:** ([MR-Soft](https://www.mrsoft.by/))  
+- **Company:** [MR-Soft](https://www.mrsoft.by/)) 
 
 - **Position:** Web Developer  
 
