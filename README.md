@@ -16,61 +16,17 @@
 
 ## Summary of Qualifications
 
-> Сonfident knowledge of HTML, CSS, JavaScript, React. Graduated from Rsschool and MyFreedom Front End / React development courses. I also have a lot of experience in the design and production of audio and video. I study quickly and easily, I work well in a team.
+> >1 year of commercial work experience. Сonfident knowledge of HTML, CSS, JavaScript, React, Redux. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I study quickly and easily and work well in a team. In addition i have a lot of experience in the design and production of audio and video.
 
 ## Technical Skills
 
-- **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3
+- **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, some C# knowledges
 
-- **Frameworks and Libraries:** React, Redux, Bootstrap, gatsby, jQuery
+- **Frameworks and Libraries:** React, Redux, Bootstrap, gatsby, jQuery, Apollo, i18n, Mobx
 
-- **Tools:** GIT, VS Code, VS Studio, Webstorm, Webpack, Eslint, Babel, Photoshop, SASS/LESS, Youtube API
+- **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, Grunt, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, work with tfs server
 
-- **Other skills:** Advanced Windows user. Sound engineering. Motion design. Video Production, After Effects
-
-## Projects
-
-### Piskel-Clone (2019)
-
-- **Project:** [Piskel-Clone](https://stassras.github.io/Piskel-Clone/)
-
-- **Position:** Developer/designer
-
-- **Environment:** HTML, CSS, JavaScript, webpack, Eslint, Sass  
-
-### Todo-list (2019)
-
-- **Project:** [Todo-list](https://stassras.github.io/Todo-list/)
-
-- **Position:** Developer/designer
-
-- **Environment:** HTML, CSS, JavaScript(ES6-7), React, webpack, babel, bootstrap
-
-### Culture-Portal (2019)
-
-#### (Group work)
-
-- **Project:** [Culture-Portal](https://belarusian-directors.netlify.com/ru/)
-
-- **Position:** Developer/designer
-
-- **Environment:** HTML, CSS, JavaScript, webpack, Eslint, React, React-Bootstrap, gats.by, LESS
-
-### Youtube-Search (2019)
-
-- **Project:** [Youtube-Search](https://stassras.github.io/Youtube-search/)
-
-- **Position:** Developer/designer
-
-- **Environment:** HTML, CSS, JavaScript, Youtube API, webpack, Eslint
-
-### FEE-Junior (2019)
-
-- **Project:** [FEE-Junior](https://stassras.github.io/FEE-Junior/)
-
-- **Position:** Developer/designer
-
-- **Environment:** HTML, CSS, JavaScript, jQuery, Flex, Grid
+- **Irrelevant skills:** JSView, JSRender, Sound engineering. Motion design. Video Production, After Effects, Adobe Illustrator, Adobe Premiere
 
 ## Hobby
 
