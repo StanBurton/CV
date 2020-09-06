@@ -16,17 +16,31 @@
 
 ## Summary of Qualifications
 
-> >1 year of commercial work experience. Сonfident knowledge of HTML, CSS, JavaScript, React, Redux. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I study quickly and easily and work well in a team. In addition i have a lot of experience in the design and production of audio and video.
+> - 1 year of experience in commercial work in front-end development. 
+- Сonfident knowledge of HTML, CSS, JavaScript, React, Redux. 
+- Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. 
+- I study quickly and easily and work well in a team. 
+- In addition i have a lot of experience in the design and production of audio and video.
 
 ## Technical Skills
 
-- **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, some C# knowledges
+- **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, some C# knowledges.
 
-- **Frameworks and Libraries:** React, Redux, Bootstrap, gatsby, jQuery, Apollo, i18n, Mobx
+- **Frameworks and Libraries:** React, Redux, Bootstrap, gatsby, jQuery, Apollo, i18n, Mobx.
 
-- **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, Grunt, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, work with tfs server
+- **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, Grunt, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, work with tfs server.
 
-- **Irrelevant skills:** JSView, JSRender, Sound engineering. Motion design. Video Production, After Effects, Adobe Illustrator, Adobe Premiere
+- **Irrelevant skills:** JSView, JSRender, Sound engineering. Motion design. Video Production, After Effects, Adobe Illustrator, Adobe Premiere.
+
+## Work experience  
+
+- Dec-2019 - Till now  
+
+- **Company:** ([MR-Soft](https://www.mrsoft.by/))  
+
+- **Position:** Web Developer  
+
+- **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, Redux, Apollo, GraphQL, C#, i18n, Mobx, JSView, JSRender
 
 ## Hobby
 
