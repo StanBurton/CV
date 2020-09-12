@@ -24,7 +24,7 @@
 
 ## Technical Skills
 
-- **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, some C# knowledges.
+- **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, SQL, some C# knowledges.
 
 - **Frameworks and Libraries:** React, Redux, Bootstrap, gatsby, jQuery, Apollo, i18n, Mobx.
 
