@@ -40,7 +40,7 @@
 
 - **Position:** Web Developer  
 
-- **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, Redux, Apollo, GraphQL, C#, i18n, Mobx, JSView, JSRender
+- **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, Redux, Apollo, GraphQL, C#, i18n, Mobx, SQL, JSView, JSRender
 
 ## Hobby
 
