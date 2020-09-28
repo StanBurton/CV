@@ -38,23 +38,23 @@ Started programming in 2016. 1 year of experience in web development as a React 
 
 ### The Rolling Scopes School
 
-- **([The Rolling Scopes School](https://school.rollingscopes.com/)), 02.2019 – 08.2019**
+  **02.2019 – 08.2019**
 
-- **Specialization:** Javascript/Front End Development
+  **Specialization:** Javascript/Front End Development
 
-- [Certificate link](https://app.rs.school/certificate/92eb5q8q)
+  [Certificate link](https://app.rs.school/certificate/92eb5q8q)
 
 ### Myfreedom IT-School
 
-- **([Myfreedom IT-School](https://myfreedom.by/)), 11.2018 – 01.2019**
+  **11.2018 – 01.2019**
 
-- **Specialization:** Javascript/React Development
+  **Specialization:** Javascript/React Development
 
-- **Certificate Number:** 008F0131012019
+  **Certificate Number:** 008F0131012019
 
 ### Belarusian State Academy Of Arts
 
-  **([Belarusian State Academy Of Arts](http://bdam.by/)), 09.2016 – 06.2021**
+  **09.2016 – 06.2021**
 
   **Specialization:** Sound Engineering
 
