@@ -1,16 +1,18 @@
-# Zhdanovich Stanislav > ![avatar](./avatar.png)  
+# Zhdanovich Stanislav 
+```
+  <img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+```
+_+375298792506_
 
-- _+375298792506_
+[stasbarinoff@gmail.com](stasbarinoff@gmail.com)
 
-- [stasbarinoff@gmail.com](stasbarinoff@gmail.com)
+[Telegram](https://t.me/stasbarinoff)
 
-- [Telegram](https://t.me/stasbarinoff)
+[LinkedIn](https://www.linkedin.com/in/stanislav-zhdanovich/)
 
-- [LinkedIn](https://www.linkedin.com/in/stanislav-zhdanovich/)
+[Job.tut.by](https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267)
 
-- [Job.tut.by](https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267)
-
-- [GitHub](https://github.com/Stassras)
+[GitHub](https://github.com/Stassras)
 
 ## Summary
 
