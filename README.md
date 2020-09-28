@@ -54,8 +54,8 @@ Started programming in 2016. 1 year of experience in web development as a React 
 
 ### Belarusian State Academy Of Arts
 
-- **([Belarusian State Academy Of Arts](http://bdam.by/)), 09.2016 – 06.2021**
+**([Belarusian State Academy Of Arts](http://bdam.by/)), 09.2016 – 06.2021**
 
-- **Specialization:** Sound Engineering
+**Specialization:** Sound Engineering
 
 
