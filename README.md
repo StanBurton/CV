@@ -1,26 +1,20 @@
 # Zhdanovich Stanislav
 
-- **Telephone number**: _+375298792506_
+- _+375298792506_
 
-- **E-mail**: [stasbarinoff@gmail.com](stasbarinoff@gmail.com)
+- [stasbarinoff@gmail.com](stasbarinoff@gmail.com)
 
-- **Telegram**: [Telegram](https://t.me/stasbarinoff)
+- [Telegram](https://t.me/stasbarinoff)
 
-- **LinkedIn profile**: [LinkedIn](https://www.linkedin.com/in/stanislav-zhdanovich/)
+- [LinkedIn](https://www.linkedin.com/in/stanislav-zhdanovich/)
 
-- **job.tut.by**: [Job.tut.by](https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267)
+- [Job.tut.by](https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267)
 
-- **github**: [GitHub](https://github.com/Stassras)
-
-- **English**: Intermediate (B1).
+- [GitHub](https://github.com/Stassras)
 
 ## Summary
 
-> - 1 year of experience in commercial work in front-end development. 
-> - Сonfident knowledge of HTML, CSS, JavaScript, React, Redux. 
-> - Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. 
-> - I study quickly and easily and work well in a team. 
-> - In addition i have a lot of experience in the design and production of audio and video.
+Started programming in 2016. 1 year of experience in web development as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React, Redux. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition i've a lot of experience in the design and production of audio and video.
 
 ## Technical Skills
 
@@ -32,7 +26,7 @@
 
 ## Work experience  
 
-- Dec-2019 - Till now  
+- Dec-2019 - Now  
 
 - **Company:** [MR-Soft](https://www.mrsoft.by/) 
 
