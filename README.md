@@ -1,4 +1,4 @@
-# Zhdanovich Stanislav > ![PiskelCloneScreen](./photo.png)  
+# Zhdanovich Stanislav > ![avatar](./avatar.png)  
 
 - _+375298792506_
 
