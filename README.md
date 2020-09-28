@@ -26,15 +26,15 @@ Started programming in 2016. 1 year of experience in web development as a React 
 
 # Work experience  
   
-_Dec-2019 - Now_
+- _Dec-2019 - Now_
 
   **Web Developer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
   **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SQL, Redux, Apollo, GraphQL, C#, i18n, Mobx, Jest, Enzyma  
   
-  - Developing (mostly on React)  
+    - Developing (mostly on React)  
   
-  - Project support
+    - Project support
 
 # Education
 
