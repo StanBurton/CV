@@ -28,7 +28,7 @@
 
 - **Frameworks and Libraries:** React, Redux, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby. 
 
-- **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, Grunt, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
+- **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
 
 ## Work experience  
 
