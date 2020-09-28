@@ -23,6 +23,8 @@ Started programming in 2016. 1 year of experience in web development as a React 
 - React, Redux, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby. 
 
 - GIT, github, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
+  
+- English: Intermediate (B1).
 
 # Work experience  
   
