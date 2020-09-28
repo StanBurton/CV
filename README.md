@@ -40,7 +40,7 @@ Started programming in 2016. 1 year of experience in web development as a React 
 
 # Education
 
-### The Rolling Scopes School
+#### The Rolling Scopes School
 
   **02.2019 – 08.2019**
 
@@ -48,7 +48,7 @@ Started programming in 2016. 1 year of experience in web development as a React 
 
   [Certificate link](https://app.rs.school/certificate/92eb5q8q)
 
-### Myfreedom IT-School
+#### Myfreedom IT-School
 
   **11.2018 – 01.2019**
 
@@ -56,7 +56,7 @@ Started programming in 2016. 1 year of experience in web development as a React 
 
   **Certificate Number:** 008F0131012019
 
-### Belarusian State Academy Of Arts
+#### Belarusian State Academy Of Arts
 
   **09.2016 – 06.2021**
 
