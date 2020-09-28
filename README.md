@@ -26,11 +26,9 @@
 
 - **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, SQL, some C# knowledges.
 
-- **Frameworks and Libraries:** React, Redux, Bootstrap, gatsby, jQuery, Apollo, i18n, Mobx, Jest, Enzyma, NextJS.
+- **Frameworks and Libraries:** React, Redux, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby. 
 
-- **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, Grunt, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
- 
-- **Irrelevant skills:** JSView, JSRender, Sound engineering. Motion design. Video Production, After Effects, Adobe Illustrator, Adobe Premiere.
+- **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, Grunt, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
 
 ## Work experience  
 
@@ -41,12 +39,6 @@
 - **Position:** Web Developer  
 
 - **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SQL, Redux, Apollo, GraphQL, C#, i18n, Mobx, Jest, Enzyma JSView, JSRender
-
-## Hobby
-
-- **Sound Production**
-
-- **Video Production**
 
 ## Education
 
