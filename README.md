@@ -25,8 +25,10 @@ Started programming in 2016. 1 year of experience in web development as a React 
 - **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
 
 ## Work experience  
+  
+  **_Dec-2019 - Now_**
 
-  **Web Developer | [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**           _Dec-2019 - Now_ 
+  **Web Developer | [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
   **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SQL, Redux, Apollo, GraphQL, C#, i18n, Mobx, Jest, Enzyma  
 
