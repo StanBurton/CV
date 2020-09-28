@@ -33,7 +33,7 @@ _Dec-2019 - Now_
   **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SQL, Redux, Apollo, GraphQL, C#, i18n, Mobx, Jest, Enzyma  
   
   - Developing (mostly on React)
-  - Project support
+  - Project support
 
 ## Education
 
