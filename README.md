@@ -12,11 +12,11 @@ _stasbarinoff@gmail.com_
 
 [GitHub](https://github.com/Stassras)
 
-## Summary
+# Summary
 
 Started programming in 2016. 1 year of experience in web development as a React developer/Frontend developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.
 
-## Technical Skills
+# Technical Skills
 
 - **Programming languages and technologies**: JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, SQL, some C# knowledges.
 
@@ -24,11 +24,11 @@ Started programming in 2016. 1 year of experience in web development as a React 
 
 - **Other skills and Tools:** GIT, github, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
 
-## Work experience  
+# Work experience  
   
 _Dec-2019 - Now_
 
-  **Web Developer | [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
+  **Web Developer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
   **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SQL, Redux, Apollo, GraphQL, C#, i18n, Mobx, Jest, Enzyma  
   
@@ -36,7 +36,7 @@ _Dec-2019 - Now_
   
   - Project support
 
-## Education
+# Education
 
 ### The Rolling Scopes School
 
