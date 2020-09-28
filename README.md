@@ -2,7 +2,7 @@
 
 _+375298792506_
 
-stasbarinoff@gmail.com
+_stasbarinoff@gmail.com_
 
 [Telegram](https://t.me/stasbarinoff)
 
