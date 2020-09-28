@@ -14,7 +14,7 @@
 
 ## Summary
 
-Started programming in 2016. 1 year of experience in web development as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React, Redux. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition i've a lot of experience in the design and production of audio and video.
+Started programming in 2016. 1 year of experience in web development as a React developer/Frontend developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.
 
 ## Technical Skills
 
