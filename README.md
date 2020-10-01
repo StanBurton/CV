@@ -32,7 +32,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
   **Web Developer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
-  **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, C#, i18n, Mobx, Jest, Enzyma 
+  **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, BEM, C#, i18n, Mobx, Jest, Enzyma 
   
   **Projects:**  
   
@@ -42,7 +42,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
       - Project support  
       
     2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
-      - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, Jest, Enzyma)  
+      - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Jest, Enzyma)  
       
     3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
       - Development (React, TS, Redux, Apollo, SQL)  
