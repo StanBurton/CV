@@ -20,7 +20,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
 - JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, SQL
 
-- React, Redux, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby. 
+- React, Redux, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby, Ant Design. 
 
 - GIT, github, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
   
@@ -32,11 +32,22 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
   **Web Developer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
-  **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SQL, Redux, Apollo, GraphQL, C#, i18n, Mobx, Jest, Enzyma  
-  **Projects:**    
-    - "Business"
-        - Developing (mostly on React)  
-        - Project support
+  **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, C#, i18n, Mobx, Jest, Enzyma 
+  
+  **Projects:**  
+  
+    1) **Business** _(web-application for electronic document management)_:  
+      - Developing plugins (React, TS, MobX, LESS)  
+      - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, C#, SQL)  
+      - Project support  
+      
+    2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
+      - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, Jest, Enzyma)  
+      
+    3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
+      - Development (React, TS, Redux, Apollo, SQL)  
+      - Project architecture development
+
 
 # Education
 
