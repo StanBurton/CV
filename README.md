@@ -45,10 +45,11 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
       - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Jest, Enzyma)  
       
     3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
-      - Development (React, TS, Redux, Apollo, SQL)  
-      - Project architecture development
-
-
+      - Development (React, TS, Redux, Apollo, SQL, Ant Design)  
+      - Project architecture development  
+      - Search and discussion of valid solutions at meetings  
+      - Implementation of UI components together with designers  
+      
 # Education
 
 #### The Rolling Scopes School
