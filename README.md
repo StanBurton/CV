@@ -38,7 +38,8 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
   
     1) **Business** _(web-application for electronic document management)_:  
       - Developing plugins (React, TS, MobX, LESS)  
-      - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, C#, SQL)  
+      - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, SQL)  
+      - Backend support and development. (C#, ASPX)  
       - Project support  
       
     2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
