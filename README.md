@@ -30,7 +30,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
   
 - _Dec-2019 - Now_
 
-  **Web Developer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
+  **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
   **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, BEM, C#, i18n, Mobx, Jest, Enzyma 
   
