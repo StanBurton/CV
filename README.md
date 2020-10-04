@@ -43,9 +43,9 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
       
     2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
       - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Jest, Enzyma)  
-      - Unit Testing (Jest, Enzyma)
-      - Code review
-      - Code refactoring
+      - Unit Testing (Jest, Enzyma)  
+      - Code review  
+      - Code refactoring  
       
     3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
       - Development (React, TS, Redux, Apollo, SQL, Ant Design)  
