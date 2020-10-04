@@ -10,7 +10,7 @@ _stasbarinoff@gmail.com_
 
 [Job.tut.by](https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267)
 
-[GitHub](https://github.com/Stassras)
+[GitHub](https://github.com/StanBurton)
 
 # Summary
 
