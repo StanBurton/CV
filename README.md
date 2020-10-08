@@ -51,6 +51,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
     3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
       - Development (React, TS, Redux, Apollo, SQL, Ant Design, Figma)  
       - Project architecture development  
+      - Interviewing new employees  
       - Search and discussion of valid solutions at meetings  
       - Implementation of UI components together with designers  
       - Unit Testing (Jest, Enzyma)  
