@@ -28,9 +28,26 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
 # Work experience  
   
-- _Dec-2019 - Now_
+- _Dec-2020 - Now
 
-  **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
+**FrontEnd Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
+
+ **Environment**: TypeScript, HTML, CSS, React, next.js, Redux, redux-saga, styled-components, antd, Webpack
+
+ **Projects:**
+
+    1) **Gambling site** _(site with news and announcements new games)_:
+      - Development (Typescript, next.js, Redux, Redux-saga, styled-components, Antd, Storybook, Framer-motion)
+
+    2) **Site for lotto game** _(SPA to display purchased tickets, news, draws and others)_:
+      - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
+
+    3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:
+      - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
+
+- _Dec-2019 - _Dec-2020
+
+ **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
   **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, BEM, C#, i18n, Mobx, Jest, Enzyma 
   
