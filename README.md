@@ -55,27 +55,27 @@ _Dec-2019 - Dec-2020_
 
 **Projects:**
 
-  1) **Business** _(web-application for electronic document management)_:
-      - Developing plugins (React, TS, MobX, LESS)  
-      - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, SQL)  
-      - Backend support and development. (C#, ASPX)  
-      - Project support
+  1) **Business** _(web-application for electronic document management)_:  
+  - Developing plugins (React, TS, MobX, LESS)  
+  - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, SQL)  
+  - Backend support and development. (C#, ASPX)  
+  - Project support
 
   2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
-      - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Figma)  
-      - Unit Testing (Jest, Enzyma)  
-      - Code review  
-      - Code refactoring
+  - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Figma)  
+  - Unit Testing (Jest, Enzyma)  
+  - Code review  
+  - Code refactoring
 
   3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
-      - Development (React, TS, Redux, Apollo, SQL, Ant Design, Figma)  
-      - Project architecture development  
-      - Interviewing new employees  
-      - Search and discussion of valid solutions at meetings  
-      - Implementation of UI components together with designers  
-      - Unit Testing (Jest, Enzyma)  
-      - Code review  
-      - Code refactoring  
+  - Development (React, TS, Redux, Apollo, SQL, Ant Design, Figma)  
+  - Project architecture development  
+  - Interviewing new employees  
+  - Search and discussion of valid solutions at meetings  
+  - Implementation of UI components together with designers  
+  - Unit Testing (Jest, Enzyma)  
+  - Code review  
+  - Code refactoring  
       
 # Education
 
