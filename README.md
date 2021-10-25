@@ -20,7 +20,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
 - JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, SQL
 
-- React, Redux, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby, Ant Design. 
+- React, Redux, Redux-saga, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby, Ant Design. 
 
 - GIT, github, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
   
@@ -28,7 +28,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
 # Work experience  
   
-- _Dec-2020 - Now
+- _Dec-2020_ - _Now_
 
 **FrontEnd Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
 
@@ -45,7 +45,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
     3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:
       - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
 
-- _Dec-2019 - _Dec-2020
+- _Dec-2019_ - _Dec-2020_
 
  **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
