@@ -28,7 +28,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
 # Work experience  
   
-- Dec-2020 - Now
+Dec-2020 - Now
 
 **FrontEnd Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
 
@@ -45,7 +45,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
     3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:
       - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
       
-- Dec-2019 - Dec-2020
+Dec-2019 - Dec-2020
   
  **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
    
