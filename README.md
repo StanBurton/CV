@@ -36,14 +36,14 @@ Started programming in 2016. 3 year of web development experience, 2 year mainly
 
 **Projects:**
 
- 1) **Gambling site** _(site with news and announcements new games)_:
- - Development (Typescript, next.js, Redux, Redux-saga, styled-components, Antd, Storybook, Framer-motion)
+  1) **Gambling site** _(site with news and announcements new games)_:  
+  - Development (Typescript, next.js, Redux, Redux-saga, styled-components, Antd, Storybook, Framer-motion)
 
-  2) **Site for lotto game** _(SPA to display purchased tickets, news, draws and others)_:
-      - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
+  2) **Site for lotto game** _(SPA to display purchased tickets, news, draws and others)_:  
+  - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
 
-  3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:
-      - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
+  3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:  
+  - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
       
   
   
