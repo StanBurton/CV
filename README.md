@@ -32,10 +32,10 @@ Dec-2020 - Now
 
 **FrontEnd Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
 
- **Environment**: TypeScript, HTML, CSS, React, next.js, Redux, redux-saga, styled-components, antd, Webpack
+**Environment**: TypeScript, HTML, CSS, React, next.js, Redux, redux-saga, styled-components, antd, Webpack
 
- **Projects:**
- 
+**Projects:**
+
     1) **Gambling site** _(site with news and announcements new games)_:
       - Development (Typescript, next.js, Redux, Redux-saga, styled-components, Antd, Storybook, Framer-motion)
 
@@ -46,12 +46,12 @@ Dec-2020 - Now
       - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
       
 Dec-2019 - Dec-2020
-  
- **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
-   
-  **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, BEM, C#, i18n, Mobx, Jest, Enzyma
-    
-  **Projects:**  
+
+**Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
+
+**Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, BEM, C#, i18n, Mobx, Jest, Enzyma
+
+**Projects:**  
   
     1) **Business** _(web-application for electronic document management)_:  
       - Developing plugins (React, TS, MobX, LESS)  
