@@ -28,7 +28,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
 # Work experience  
   
-Dec-2020 - Now
+_Dec-2020 - Now
 
 **FrontEnd Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
 
@@ -36,36 +36,36 @@ Dec-2020 - Now
 
 **Projects:**
 
-    1) **Gambling site** _(site with news and announcements new games)_:
+  1) **Gambling site** _(site with news and announcements new games)_:
       - Development (Typescript, next.js, Redux, Redux-saga, styled-components, Antd, Storybook, Framer-motion)
 
-    2) **Site for lotto game** _(SPA to display purchased tickets, news, draws and others)_:
+  2) **Site for lotto game** _(SPA to display purchased tickets, news, draws and others)_:
       - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
 
-    3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:
+  3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:
       - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
       
-Dec-2019 - Dec-2020
+_Dec-2019 - Dec-2020
 
 **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
 **Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, BEM, C#, i18n, Mobx, Jest, Enzyma
 
-**Projects:**  
-  
-    1) **Business** _(web-application for electronic document management)_:  
-      - Developing plugins (React, TS, MobX, LESS)  
+**Projects:**
+
+  1) **Business** _(web-application for electronic document management)_:
+      - Developing plugins (React, TS, MobX, LESS)  
       - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, SQL)  
       - Backend support and development. (C#, ASPX)  
-      - Project support  
-      
-    2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
+      - Project support
+
+  2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
       - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Figma)  
       - Unit Testing (Jest, Enzyma)  
       - Code review  
-      - Code refactoring  
-      
-    3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
+      - Code refactoring
+
+  3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
       - Development (React, TS, Redux, Apollo, SQL, Ant Design, Figma)  
       - Project architecture development  
       - Interviewing new employees  
