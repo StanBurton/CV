@@ -14,7 +14,7 @@ _stasbarinoff@gmail.com_
 
 # Summary
 
-Started programming in 2016. 1 year of web development experience, mainly as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.
+Started programming in 2016. 3 year of web development experience, 2 year mainly as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.
 
 # Technical Skills
 
@@ -28,7 +28,7 @@ Started programming in 2016. 1 year of web development experience, mainly as a R
 
 # Work experience  
   
-_Dec-2020 - Now
+_Dec-2020 - Now_
 
 **FrontEnd Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
 
@@ -45,7 +45,7 @@ _Dec-2020 - Now
   3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:
       - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
       
-_Dec-2019 - Dec-2020
+_Dec-2019 - Dec-2020_
 
 **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
@@ -55,25 +55,25 @@ _Dec-2019 - Dec-2020
 
   1) **Business** _(web-application for electronic document management)_:
       - Developing plugins (React, TS, MobX, LESS)  
-      - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, SQL)  
-      - Backend support and development. (C#, ASPX)  
-      - Project support
+      - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, SQL)  
+      - Backend support and development. (C#, ASPX)  
+      - Project support
 
   2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
-      - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Figma)  
-      - Unit Testing (Jest, Enzyma)  
-      - Code review  
-      - Code refactoring
+      - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Figma)  
+      - Unit Testing (Jest, Enzyma)  
+      - Code review  
+      - Code refactoring
 
   3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
-      - Development (React, TS, Redux, Apollo, SQL, Ant Design, Figma)  
-      - Project architecture development  
-      - Interviewing new employees  
-      - Search and discussion of valid solutions at meetings  
-      - Implementation of UI components together with designers  
-      - Unit Testing (Jest, Enzyma)  
-      - Code review  
-      - Code refactoring  
+      - Development (React, TS, Redux, Apollo, SQL, Ant Design, Figma)  
+      - Project architecture development  
+      - Interviewing new employees  
+      - Search and discussion of valid solutions at meetings  
+      - Implementation of UI components together with designers  
+      - Unit Testing (Jest, Enzyma)  
+      - Code review  
+      - Code refactoring  
       
 # Education
 
