@@ -14,21 +14,22 @@ _stasbarinoff@gmail.com_
 
 # Summary
 
-Started programming in 2016. 3 year of web development experience, 2 year mainly as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.
+Started programming in 2016. 3 year of web development experience, 3 year mainly as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.
 
 # Technical Skills
 
 - JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, SQL
 
-- React, Redux, Redux-saga, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby, Ant Design. 
+- React, Redux, Redux-saga, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby, Ant Design, React-query, Material-UI,. 
 
-- GIT, github, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS.
+- GIT, github, gitlab, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS, Vite, Jenkins.
   
 - English: Intermediate (B1).
 
 # Work experience  
-  
-_Dec-2020 - Now_
+
+
+_Dec-2020 - Dec-2021_
 
 **FrontEnd Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
 
