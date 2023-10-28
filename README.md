@@ -14,67 +14,76 @@ _stasbarinoff@gmail.com_
 
 # Summary
 
-Started programming in 2016. 3 year of web development experience, 3 year mainly as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.
+Started programming in 2016. 5 year of web development experience, 4 year mainly as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.
 
 # Technical Skills
 
 - JavaScript(ES6), HTML5, CSS3, GraphQL, SASS/LESS, TypeScript, SQL
 
-- React, Redux, Redux-saga, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby, Ant Design, React-query, Material-UI,. 
+- React, Redux, Redux-saga, Bootstrap, jQuery, Apollo, i18n, Jest, Enzyma, NextJS, gatsby, Ant Design, React-query, Material-UI, framer-motion. 
 
-- GIT, github, gitlab, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, IIS, JSDoc, Swagger, TFS, Vite, Jenkins.
+- GIT, github, gitlab, bitbucket, VS Code, VS Studio, Webstorm, Webpack, BEM, Eslint, Babel, Photoshop, Figma, Swagger, TFS, Vite, Jenkins, Storybook.
   
-- English: Intermediate (B1).
+- English: Upper-Intermediate (B2).
 
 # Work experience  
 
+_Dec-2021 - Now_
+
+**Software Engineer, [Exadel](https://exadel.com/) - Tbilisi, BY**
+
+**Projects:**
+
+**Internal Timetrack System**:  
+  - Team Lead of Dront End Team
+  - Development and Bug Fixing
+  - Team Lead
+  - Interviewing New Employees
+      
+---
 
 _Dec-2020 - Dec-2021_
 
-**FrontEnd Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
-
-**Environment**: TypeScript, HTML, CSS, React, next.js, Redux, redux-saga, styled-components, antd, Webpack
+**Software Engineer, [Arateg](https://arateg.com/) - Minsk, BY**
 
 **Projects:**
 
   1) **Gambling site** _(site with news and announcements new games)_:  
-  - Development (Typescript, next.js, Redux, Redux-saga, styled-components, Antd, Storybook, Framer-motion)
+  - Development
 
   2) **Site for lotto game** _(SPA to display purchased tickets, news, draws and others)_:  
-  - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
+  - Full frontend development cycle
 
   3) **Medical events** _(SPA with medical broadcasts and events, publications, users)_:  
-  - Full frontend development cycle (Typescript, cra, Redux, Redux-saga, styled-components, Storybook)
-      
-  
+  - Full frontend development cycle
+
+---
   
 _Dec-2019 - Dec-2020_
 
 **Software Engineer, [MR-Soft](https://www.mrsoft.by/) - Minsk, BY**
 
-**Environment:** JavaScript, HTML, CSS, TypeScript, React, jQuery, SASS, LESS, SQL, Redux, Apollo, Webpack, GraphQL, BEM, C#, i18n, Mobx, Jest, Enzyma
-
 **Projects:**
 
   1) **Business** _(web-application for electronic document management)_:  
-  - Developing plugins (React, TS, MobX, LESS)  
-  - Developing new features (JS, CSS, HTML, jQuery, JSRender, JSView, SQL)  
-  - Backend support and development. (C#, ASPX)  
+  - Developing plugins
+  - Developing new features 
+  - Backend support and development
   - Project support
 
   2) **Active Citizen** _(SPA for citizen participation in the development of their city)_:  
-  - Development (React, Redux, SASS, NextJS, i18n, StoryBook, axios, BEM, Figma)  
-  - Unit Testing (Jest, Enzyma)  
+  - Development
+  - Unit Testing
   - Code review  
   - Code refactoring
 
   3) **Archive Bussines** _(SPA for virtualization of the document storage process)_:  
-  - Development (React, TS, Redux, Apollo, SQL, Ant Design, Figma)  
+  - Development
   - Project architecture development  
   - Interviewing new employees  
   - Search and discussion of valid solutions at meetings  
   - Implementation of UI components together with designers  
-  - Unit Testing (Jest, Enzyma)  
+  - Unit Testing
   - Code review  
   - Code refactoring  
       
