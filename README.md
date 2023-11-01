@@ -35,9 +35,8 @@ _Dec-2021 - Now_
 **Projects:**
 
 **Internal Timetrack System**:  
-  - Team Lead of Dront End Team
+  - Team Lead of Front End Team
   - Development and Bug Fixing
-  - Team Lead
   - Interviewing New Employees
       
 ---
