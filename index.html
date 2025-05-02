@@ -1,312 +1,296 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zhdanovich Stanislav - Resume</title>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Stanislav Zhdanovich – Front-End / React Developer Resume</title>
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+
     <style>
-        /* Basic Reset */
-        body, h1, h2, h3, p, ul, li {
-            margin: 0;
-            padding: 0;
-            list-style: none;
-        }
+      :root {
+        --primary: #1f2937;
+        --accent: #2563eb;
+        --bg: #f9fafb;
+        --text: #111827;
+        --muted: #6b7280;
+      }
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        font-family: "Inter", sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        color: var(--text);
+        background: var(--bg);
+      }
+      .wrapper {
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 0 24px;
+        background: #fff;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+      }
+      header {
+        text-align: center;
+        padding: 32px 0;
+        border-bottom: 2px solid var(--bg);
+      }
+      section {
+        padding: 32px 0;
+        border-bottom: 1px solid var(--bg);
+      }
+      section:last-of-type {
+        border: none;
+      }
 
+      h1 {
+        font-size: 2.4rem;
+        font-weight: 700;
+        letter-spacing: 0.5px;
+        color: var(--primary);
+      }
+      h2 {
+        font-size: 1.1rem;
+        font-weight: 400;
+        color: var(--accent);
+        margin-top: 4px;
+      }
+      h3 {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: var(--primary);
+        margin-bottom: 12px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+      h4 {
+        font-size: 1.05rem;
+        font-weight: 600;
+        margin-bottom: 4px;
+      }
+      p {
+        margin-bottom: 12px;
+      }
+
+      .contact {
+        margin-top: 12px;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+      .contact a {
+        color: inherit;
+        text-decoration: none;
+      }
+      .contact span:not(:last-child)::after {
+        content: " | ";
+      }
+
+      .skills-list {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+      .skill {
+        background: var(--bg);
+        padding: 6px 10px;
+        border-radius: 4px;
+        font-size: 0.85rem;
+      }
+
+      .item {
+        margin-bottom: 24px;
+      }
+      .item .meta {
+        color: var(--muted);
+        font-size: 0.9rem;
+        margin-bottom: 8px;
+      }
+      ul {
+        list-style: disc;
+        margin-left: 20px;
+      }
+
+      @media print {
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            color: #333;
+          background: #fff;
         }
-
-        .container {
-            max-width: 960px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        .wrapper {
+          box-shadow: none;
+          margin: 0;
         }
-
-        h1 {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            color: #007bff;
-        }
-
-        h2 {
-            font-size: 1.8em;
-            margin-bottom: 10px;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-        }
-
-        h3 {
-            font-size: 1.4em;
-            margin-bottom: 5px;
-        }
-
-        p {
-            margin-bottom: 10px;
-        }
-
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        /* Contact Information */
-        .contact-info {
-            margin-bottom: 20px;
-        }
-
-        .contact-info p {
-            margin-bottom: 5px;
-        }
-
-        /* Skills Section */
-        .skills ul {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        .skills li {
-            background-color: #e9ecef;
-            padding: 5px 10px;
-            border-radius: 5px;
-            font-size: 0.9em;
-        }
-
-        /* Work Experience Section */
-        .work-experience {
-            margin-bottom: 20px;
-        }
-
-        .work-experience h3 {
-            margin-bottom: 5px;
-        }
-
-        .work-experience em {
-            font-style: italic;
-            color: #777;
-        }
-
-        .work-experience ul {
-            margin-top: 5px;
-            padding-left: 20px;
-        }
-
-        .work-experience li {
-            margin-bottom: 5px;
-        }
-
-        /* Education Section */
-        .education {
-            margin-bottom: 20px;
-        }
-
-        .education h4 {
-            font-size: 1.2em;
-            margin-bottom: 5px;
-        }
-
-        /* Footer */
-        footer {
-            text-align: center;
-            padding: 10px;
-            background-color: #343a40;
-            color: #fff;
-            font-size: 0.8em;
-        }
-
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .container {
-                padding: 15px;
-            }
-
-            h1 {
-                font-size: 2em;
-            }
-
-            h2 {
-                font-size: 1.5em;
-            }
-        }
+      }
     </style>
-</head>
-<body>
-    <div class="container">
-        <header>
-            <h1>Zhdanovich Stanislav</h1>
-            <div class="contact-info">
-                <p>+375298792506</p>
-                <p><a href="mailto:stasbarinoff@gmail.com">stasbarinoff@gmail.com</a></p>
-                <p><a href="https://t.me/stasbarinoff" target="_blank">Telegram</a></p>
-                <p><a href="https://www.linkedin.com/in/stanislav-zhdanovich/" target="_blank">LinkedIn</a></p>
-                <p><a href="https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267" target="_blank">Job.tut.by</a></p>
-                <p><a href="https://github.com/StanBurton" target="_blank">GitHub</a></p>
-            </div>
-        </header>
+  </head>
+  <body>
+    <main class="wrapper">
+      <!-- HEADER -->
+      <header>
+        <h1>Stanislav Zhdanovich</h1>
+        <h2>Front-End / React Developer – 5 years experience</h2>
 
-        <section class="summary">
-            <h2>Summary</h2>
-            <p>Started programming in 2016. 5 year of web development experience, 4 year mainly as a React developer. Сonfident knowledge of HTML, CSS, JavaScript, React. Studied independently and also graduated from Rsschool and MyFreedom Front-End/React development courses. I enjoy working in a team environment and learning new technologies. In addition, i've a lot of experience in the design and production of audio and video.</p>
-        </section>
+        <div class="contact">
+          <span
+            ><a href="mailto:stasbarinoff@gmail.com"
+              >stasbarinoff@gmail.com</a
+            ></span
+          >
+          <span>+375&nbsp;(29)&nbsp;879-25-06</span>
+          <span><a href="https://t.me/stasbarinoff">Telegram</a></span>
+          <span
+            ><a href="https://www.linkedin.com/in/stanislav-zhdanovich/"
+              >LinkedIn</a
+            ></span
+          >
+          <span><a href="https://github.com/StanBurton">GitHub</a></span>
+          <span
+            ><a
+              href="https://jobs.tut.by/resume/e29ad211ff0759e1090039ed1f42795a6e5267"
+              >Job profile</a
+            ></span
+          >
+          <span>English — B2</span>
+        </div>
+      </header>
 
-        <section class="skills">
-            <h2>Technical Skills</h2>
-            <ul>
-                <li>JavaScript(ES6)</li>
-                <li>HTML5</li>
-                <li>CSS3</li>
-                <li>GraphQL</li>
-                <li>SASS/LESS</li>
-                <li>TypeScript</li>
-                <li>SQL</li>
-                <li>React</li>
-                <li>Redux</li>
-                <li>Redux-saga</li>
-                <li>Bootstrap</li>
-                <li>jQuery</li>
-                <li>Apollo</li>
-                <li>i18n</li>
-                <li>Jest</li>
-                <li>Enzyma</li>
-                <li>NextJS</li>
-                <li>Gatsby</li>
-                <li>Ant Design</li>
-                <li>React-query</li>
-                <li>Material-UI</li>
-                <li>framer-motion</li>
-                <li>GIT</li>
-                <li>GitHub</li>
-                <li>GitLab</li>
-                <li>Bitbucket</li>
-                <li>VS Code</li>
-                <li>VS Studio</li>
-                <li>Webstorm</li>
-                <li>Webpack</li>
-                <li>BEM</li>
-                <li>Eslint</li>
-                <li>Babel</li>
-                <li>Photoshop</li>
-                <li>Figma</li>
-                <li>Swagger</li>
-                <li>TFS</li>
-                <li>Vite</li>
-                <li>Jenkins</li>
-                <li>Storybook</li>
-                <li>English: Upper-Intermediate (B2)</li>
-            </ul>
-        </section>
+      <!-- SUMMARY -->
+      <section>
+        <h3>Summary</h3>
+        <p>
+          Started programming in 2016. 5 years of web-development experience,
+          including 4 years mainly with React. Confident in HTML, CSS,
+          JavaScript and the React ecosystem. Graduated from RS School and
+          MyFreedom Front-End / React courses. A team-player who enjoys learning
+          new technologies. Additionally, I have deep experience in audio &amp;
+          video production and sound engineering.
+        </p>
+      </section>
 
-        <section class="work-experience">
-            <h2>Work experience</h2>
+      <!-- SKILLS -->
+      <section>
+        <h3>Technical Skills</h3>
+        <div class="skills-list">
+          <span class="skill">JavaScript (ES6+)</span>
+          <span class="skill">TypeScript</span>
+          <span class="skill">HTML5</span>
+          <span class="skill">CSS3 / SASS / LESS</span>
+          <span class="skill">React</span>
+          <span class="skill">Redux</span>
+          <span class="skill">Redux-saga</span>
+          <span class="skill">React-Query</span>
+          <span class="skill">Next.js</span>
+          <span class="skill">Gatsby</span>
+          <span class="skill">GraphQL / Apollo</span>
+          <span class="skill">Material-UI</span>
+          <span class="skill">Ant Design</span>
+          <span class="skill">framer-motion</span>
+          <span class="skill">Jest</span>
+          <span class="skill">Enzyme</span>
+          <span class="skill">Storybook</span>
+          <span class="skill">Webpack / Vite</span>
+          <span class="skill">BEM</span>
+          <span class="skill">ESLint / Babel</span>
+          <span class="skill">Git / GitHub / GitLab / Bitbucket</span>
+          <span class="skill">Jenkins</span>
+          <span class="skill">SQL</span>
+          <span class="skill">Photoshop</span>
+          <span class="skill">Figma</span>
+          <span class="skill">Swagger</span>
+          <span class="skill">TFS</span>
+          <span class="skill">VS Code / WebStorm</span>
+        </div>
+      </section>
 
-            <article>
-                <h3>Software Engineer, <a href="https://exadel.com/" target="_blank">Exadel</a> - Tbilisi, BY</h3>
-                <em>Dec-2021 - Now</em>
-                <p>Projects:</p>
-                <p>Internal Timetrack System:</p>
-                <ul>
-                    <li>Team Lead of Front End Team</li>
-                    <li>Development and Bug Fixing</li>
-                    <li>Interviewing New Employees</li>
-                </ul>
-            </article>
+      <!-- EXPERIENCE -->
+      <section>
+        <h3>Work Experience</h3>
 
-            <article>
-                <h3>Software Engineer, <a href="https://arateg.com/" target="_blank">Arateg</a> - Minsk, BY</h3>
-                <em>Dec-2020 - Dec-2021</em>
-                <p>Projects:</p>
-                <ol>
-                    <li>Gambling site <em>(site with news and announcements new games)</em>:
-                        <ul>
-                            <li>Development</li>
-                        </ul>
-                    </li>
-                    <li>Site for lotto game <em>(SPA to display purchased tickets, news, draws and others)</em>:
-                        <ul>
-                            <li>Full frontend development cycle</li>
-                        </ul>
-                    </li>
-                    <li>Medical events <em>(SPA with medical broadcasts and events, publications, users)</em>:
-                        <ul>
-                            <li>Full frontend development cycle</li>
-                        </ul>
-                    </li>
-                </ol>
-            </article>
+        <div class="item">
+          <h4>Software Engineer – Exadel</h4>
+          <div class="meta">Dec 2021 – Present • Tbilisi, BY</div>
+          <strong>Project: Internal Timetrack System</strong>
+          <ul>
+            <li>Team Lead of the Front-End team.</li>
+            <li>Development of new features and bug-fixing.</li>
+            <li>Conducted technical interviews for Front-End candidates.</li>
+          </ul>
+        </div>
 
-            <article>
-                <h3>Software Engineer, <a href="https://www.mrsoft.by/" target="_blank">MR-Soft</a> - Minsk, BY</h3>
-                <em>Dec-2019 - Dec-2020</em>
-                <p>Projects:</p>
-                <ol>
-                    <li>Business <em>(web-application for electronic document management)</em>:
-                        <ul>
-                            <li>Developing plugins</li>
-                            <li>Developing new features</li>
-                            <li>Backend support and development</li>
-                            <li>Project support</li>
-                        </ul>
-                    </li>
-                    <li>Active Citizen <em>(SPA for citizen participation in the development of their city)</em>:
-                        <ul>
-                            <li>Development</li>
-                            <li>Unit Testing</li>
-                            <li>Code review</li>
-                            <li>Code refactoring</li>
-                        </ul>
-                    </li>
-                    <li>Archive Bussines <em>(SPA for virtualization of the document storage process)</em>:
-                        <ul>
-                            <li>Development</li>
-                            <li>Project architecture development</li>
-                            <li>Interviewing new employees</li>
-                            <li>Search and discussion of valid solutions at meetings</li>
-                            <li>Implementation of UI components together with designers</li>
-                            <li>Unit Testing</li>
-                            <li>Code review</li>
-                            <li>Code refactoring</li>
-                        </ul>
-                    </li>
-                </ol>
-            </article>
-        </section>
+        <div class="item">
+          <h4>Software Engineer – Arateg</h4>
+          <div class="meta">Dec 2020 – Dec 2021 • Minsk, BY</div>
+          <ul>
+            <li>
+              <strong>Gambling Site:</strong> implemented new pages and features
+              for a news &amp; game-announcements portal.
+            </li>
+            <li>
+              <strong>Lotto Game SPA:</strong> led full Front-End cycle for
+              tickets, draws, news and user dashboards.
+            </li>
+            <li>
+              <strong>Medical Events SPA:</strong> delivered broadcasts,
+              publications and user-management functionality.
+            </li>
+          </ul>
+        </div>
 
-        <section class="education">
-            <h2>Education</h2>
+        <div class="item">
+          <h4>Software Engineer – MR-Soft</h4>
+          <div class="meta">Dec 2019 – Dec 2020 • Minsk, BY</div>
+          <ul>
+            <li>
+              <strong>Business EDM:</strong> developed plug-ins and new
+              features, provided back-end support.
+            </li>
+            <li>
+              <strong>Active Citizen SPA:</strong> development, unit testing,
+              code review &amp; refactoring.
+            </li>
+            <li>
+              <strong>Archive Business SPA:</strong> designed project
+              architecture, collaborated with designers on UI components,
+              testing and code reviews. Interviewed new employees and led
+              solution-discovery meetings.
+            </li>
+          </ul>
+        </div>
+      </section>
 
-            <article>
-                <h4>The Rolling Scopes School</h4>
-                <em>02.2019 – 08.2019</em>
-                <p>Specialization: Javascript/Front End Development</p>
-                <p><a href="https://app.rs.school/certificate/92eb5q8q" target="_blank">Certificate link</a></p>
-            </article>
+      <!-- EDUCATION -->
+      <section>
+        <h3>Education</h3>
 
-            <article>
-                <h4>Myfreedom IT-School</h4>
-                <em>11.2018 – 01.2019</em>
-                <p>Specialization: Javascript/React Development</p>
-                <p>Certificate Number: 008F0131012019</p>
-            </article>
+        <div class="item">
+          <h4>The Rolling Scopes School</h4>
+          <div class="meta">
+            Feb 2019 – Aug 2019 • JavaScript / Front-End Development
+          </div>
+          <a href="https://app.rs.school/certificate/92eb5q8q" target="_blank"
+            >Certificate</a
+          >
+        </div>
 
-            <article>
-                <h4>Belarusian State Academy Of Arts</h4>
-                <em>09.2016 – 06.2021</em>
-                <p>Specialization: Sound Engineering</p>
-            </article>
-        </section>
-    </div>
+        <div class="item">
+          <h4>MyFreedom IT-School</h4>
+          <div class="meta">
+            Nov 2018 – Jan 2019 • JavaScript / React Development • Certificate №
+            008F0131012019
+          </div>
+        </div>
 
-    <footer>
-        &copy; 2025 Zhdanovich Stanislav
-    </footer>
-</body>
+        <div class="item">
+          <h4>Belarusian State Academy of Arts</h4>
+          <div class="meta">
+            Sep 2016 – Jun 2021 • Sound Engineering (Bachelor)
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
 </html>
