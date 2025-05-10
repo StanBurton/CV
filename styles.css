@@ -21,14 +21,6 @@
   }
 }
 
-body {
-  font-family: "Inter", sans-serif;
-  font-size: 16px;
-  line-height: 1.7;
-  color: var(--text);
-  padding: 40px 20px;
-}
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -162,7 +154,6 @@ ul {
 
 .experience .title a {
   color: var(--secondary);
-  text-decoration: none;
 }
 
 .experience .period,
@@ -247,9 +238,15 @@ ul {
     font-size: 1rem;
   }
 
-  .period,
-  .meta,
-  .skills {
+  .experience .period {
+    font-size: 0.8rem;
+  }
+
+  .experience .skills {
+    font-size: 0.8rem;
+  }
+
+  .education .meta {
     font-size: 0.8rem;
   }
 }
@@ -285,12 +282,6 @@ ul {
   .experience .title,
   .education .title {
     font-size: 0.9rem;
-  }
-
-  .period,
-  .meta,
-  .skills {
-    font-size: 0.7rem;
   }
 
   ul {
@@ -384,17 +375,15 @@ ul {
     font-size: 1rem;
   }
 
+  .experience .period {
+    font-size: 0.8rem;
+  }
+
   .experience .skills {
     font-size: 0.8rem;
   }
 
   .education .meta {
-    font-size: 0.8rem;
-  }
-
-  .period,
-  .meta,
-  .skills {
     font-size: 0.8rem;
   }
 
