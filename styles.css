@@ -82,7 +82,7 @@ address.contact {
 
 .contact span::after {
   content: "•";
-  margin: 0 8px;
+  margin-left: 8px;
   color: var(--muted);
 }
 
@@ -195,11 +195,12 @@ ul {
     font-size: 1.1rem;
   }
 
-  .contact {
+  address.contact {
     font-size: 0.9rem;
-    gap: 6px;
-    flex-wrap: wrap;
-    justify-content: flex-start;
+  }
+
+  .contact span::after {
+    display: none;
   }
 
   .skills-list {
@@ -261,9 +262,8 @@ ul {
     font-size: 1rem;
   }
 
-  .contact {
+  address.contact {
     font-size: 0.8rem;
-    gap: 4px;
   }
 
   .skills-list {
