@@ -21,6 +21,9 @@ Experienced front-end developer with **6+ years** in React development, speciali
 ## Skills
 
 - JavaScript (ES6+)
+- Claude code
+- Codex
+- AI
 - TypeScript
 - HTML5
 - CSS3 / SASS / LESS
@@ -56,7 +59,10 @@ Experienced front-end developer with **6+ years** in React development, speciali
 
 ## Experience
 
-### [Exadel](https://exadel.com) (12/2021 – Present)
+### [FlexiTech](https://flexitech.ai/) (12/2025 – Present)
+
+
+### [Exadel](https://exadel.com) (12/2021 – 06/2025)
 
 - Developed a sophisticated **time tracking system** for employee reporting.
 - Led a front-end team of 4 developers, optimized Scrum processes, with 100% sprint delivery success over a **2-year** period.
